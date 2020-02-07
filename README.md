@@ -1,6 +1,6 @@
 The app can take user input and check if user filled all the fields, or does password match and display either
 welcome message or error message.
 
-![passwordError](/password error.png)
-![fillingBlank](/filling blank.png)
-![welcomeMessage](/welcome message.png)
+![](/passworderror.png)
+![](/fillingblank.png)
+![](/welcomemessage.png)
