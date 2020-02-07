@@ -2,5 +2,5 @@ The app can take user input and check if user filled all the fields, or does pas
 welcome message or error message.
 
 ![](/image/passworderror.png)
-![](/fillingblank.png)
-![](/welcomemessage.png)
+![](/image/fillingblank.png)
+![](/image/welcomemessage.png)
